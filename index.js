@@ -18,4 +18,4 @@ exports.square.area = function(s){
     return s * s;
 };
 
-
+exports.rectangle = require('rectangle');
